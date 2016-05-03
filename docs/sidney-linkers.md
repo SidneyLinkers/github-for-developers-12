@@ -1,4 +1,4 @@
-### Bio
+### My complete Bio
 
 - [x] Your name
 - [x] Where you are from
