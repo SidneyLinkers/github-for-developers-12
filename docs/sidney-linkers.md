@@ -1,4 +1,4 @@
-### Bio
+### Bio as requested in issue #1
 
 - [x] Your name
 - [x] Where you are from
