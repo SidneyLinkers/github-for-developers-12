@@ -6,4 +6,4 @@
 - [x] A hobby
 
 
-My favorite color is Blue
+My favorite color is Cobalt-Blue
